@@ -1,5 +1,9 @@
 # Learning-Go
 
+```
+$ go version
+go version go1.11.1 darwin/amd64
+```
 
 [Golang plugin](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Go)
 
